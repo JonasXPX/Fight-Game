@@ -1,0 +1,6 @@
+name: Fight
+main: br.com.endcraft.fightevent.Fight
+version: 1.2-Beta
+commands:
+    fight:
+    
